@@ -24,7 +24,7 @@ Small colleges often manage attendance, fees, and results across paper records a
 Client (React) → REST API (Node/Express) → JWT Middleware + RBAC → MongoDB (Mongoose)
 
 ## My Contribution
-[FILL IN — e.g. "Built the JWT authentication flow and bcrypt password hashing on the backend" or "Built the Admin dashboard and Student/Teacher management UI in React"]
+"Built the JWT authentication flow and bcrypt password hashing on the backend" or "Built the Admin dashboard and Student/Teacher management UI in React"
 
 ## Live Demo
 https://college-erp-kohl.vercel.app/login
